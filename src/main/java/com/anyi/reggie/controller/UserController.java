@@ -17,7 +17,7 @@ import java.util.concurrent.TimeUnit;
 
 /**
  * <p>
- * 用户信息 前端控制器
+ * 用户信息 前端控制器  新增
  * </p>
  *
  * @author anyi
