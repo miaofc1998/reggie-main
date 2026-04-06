@@ -14,7 +14,7 @@ import java.util.List;
 
 /**
  * <p>
- * 购物车 前端控制器 新增 删除 清空 查询
+ * 购物车 前端控制器 
  * </p>
  *
  * @author anyi
